@@ -9,9 +9,12 @@ Crypto Arbitrage is a pandas library for analyzing the Bitcoin arbitrage spread 
 
 ## Usage
 
-
+Crypto Arbitrage is useful because it analyzes different datasets to find profitability opportunities
+for a commodity, it also compares the data over a specific period, and calculates NAd plots the cumulative 
+profit. 
 
 ## Contributing
+
 Pull requests are welcome. Please open an issue to discuss before executing any changes
 
 Please make sure to update tests as needed.
